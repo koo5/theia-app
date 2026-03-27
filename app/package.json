@@ -39,7 +39,7 @@
   },
   "devDependencies": {
     "@theia/cli": "next",
-    "yaml": "1.5.1",
+    "yaml": "1.10.3",
     "worker-loader": "1.1.1",
     "copy-webpack-plugin": "4.5.4",
     "circular-dependency-plugin": "5.0.2",
